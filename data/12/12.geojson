@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "12",
-    "Nom": "Chaudière-Appalaches",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 418704,
-    "Superficie": 15128,
-    "PlusGrandeVille": "Lévis"
+    "type": "Région administrative",
+    "code": "12",
+    "nom": "Chaudière-Appalaches",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 418704,
+    "superficie": 15128,
+    "plusGrandeVille": "Lévis"
   },
   "geometry": {
     "type": "Polygon",

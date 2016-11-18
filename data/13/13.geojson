@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "13",
-    "Nom": "Laval",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 417304,
-    "Superficie": 245,
-    "PlusGrandeVille": "Laval"
+    "type": "Région administrative",
+    "code": "13",
+    "nom": "Laval",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 417304,
+    "superficie": 245,
+    "plusGrandeVille": "Laval"
   },
   "geometry": {
     "type": "Polygon",

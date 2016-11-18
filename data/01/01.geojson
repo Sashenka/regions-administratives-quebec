@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "01",
-    "Nom": "Bas-Saint-Laurent",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 201091,
-    "Superficie": 22405,
-    "PlusGrandeVille": "Rimouski"
+    "type": "Région administrative",
+    "code": "01",
+    "nom": "Bas-Saint-Laurent",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 201091,
+    "superficie": 22405,
+    "plusGrandeVille": "Rimouski"
   },
   "geometry": {
     "type": "Polygon",

@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "04",
+    "type": "Région administrative",
+    "code": "04",
     "nom": "Mauricie",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 266542,
-    "Superficie": 39748,
-    "PlusGrandeVille": "Trois-Rivière"
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 266542,
+    "superficie": 39748,
+    "plusGrandeVille": "Trois-Rivière"
   },
   "geometry": {
     "type": "Polygon",

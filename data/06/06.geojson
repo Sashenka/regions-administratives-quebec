@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "06",
-    "Nom": "Montréal",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 1959987,
-    "Superficie": 504,
-    "PlusGrandeVille": "Montréal"
+    "type": "Région administrative",
+    "code": "06",
+    "nom": "Montréal",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 1959987,
+    "superficie": 504,
+    "plusGrandeVille": "Montréal"
   },
   "geometry": {
     "type": "Polygon",

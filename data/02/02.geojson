@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "02",
-    "Nom": "Saguenay - Lac-Saint-Jean",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 278069,
-    "Superficie": 104035,
-    "PlusGrandeVille": "Saguenay"
+    "type": "Région administrative",
+    "code": "02",
+    "nom": "Saguenay - Lac-Saint-Jean",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 278069,
+    "superficie": 104035,
+    "plusGrandeVille": "Saguenay"
   },
   "geometry": {
     "type": "Polygon",

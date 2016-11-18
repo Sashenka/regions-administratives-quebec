@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "17",
-    "Nom": "Centre-du-Québec",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 239245,
-    "Superficie": 6926,
-    "PlusGrandeVille": "Drummondville"
+    "type": "Région administrative",
+    "code": "17",
+    "nom": "Centre-du-Québec",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 239245,
+    "superficie": 6926,
+    "plusGrandeVille": "Drummondville"
   },
   "geometry": {
     "type": "Polygon",

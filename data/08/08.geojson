@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "08",
-    "Nom": "Abitibi-Témiscamingue",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 147931,
-    "Superficie": 64700,
-    "PlusGrandeVille": "Rouyn-Noranda"
+    "type": "Région administrative",
+    "code": "08",
+    "nom": "Abitibi-Témiscamingue",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 147931,
+    "superficie": 64700,
+    "plusGrandeVille": "Rouyn-Noranda"
   },
   "geometry": {
     "type": "Polygon",

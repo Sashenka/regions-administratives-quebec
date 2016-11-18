@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "14",
-    "Nom": "Lanaudière",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 488927,
-    "Superficie": 13528,
-    "PlusGrandeVille": "Terrebonne"
+    "type": "Région administrative",
+    "code": "14",
+    "nom": "Lanaudière",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 488927,
+    "superficie": 13528,
+    "plusGrandeVille": "Terrebonne"
   },
   "geometry": {
     "type": "Polygon",

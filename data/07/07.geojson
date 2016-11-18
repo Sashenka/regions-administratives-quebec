@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "07",
-    "Nom": "Outaouais",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 381200,
-    "Superficie": 32841,
-    "PlusGrandeVille": "Gatineau"
+    "type": "Région administrative",
+    "code": "07",
+    "nom": "Outaouais",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 381200,
+    "superficie": 32841,
+    "plusGrandeVille": "Gatineau"
   },
   "geometry": {
     "type": "Polygon",

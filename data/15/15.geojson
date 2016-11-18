@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "15",
-    "Nom": "Laurentides",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 580966,
-    "Superficie": 21563,
-    "PlusGrandeVille": "Saint-Jerôme"
+    "type": "Région administrative",
+    "code": "15",
+    "nom": "Laurentides",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 580966,
+    "superficie": 21563,
+    "plusGrandeVille": "Saint-Jerôme"
   },
   "geometry": {
     "type": "Polygon",

@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "16",
-    "Nom": "Montérégie",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 1499088,
-    "Superficie": 11114,
-    "PlusGrandeVille": "Longueuil"
+    "type": "Région administrative",
+    "code": "16",
+    "nom": "Montérégie",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 1499088,
+    "superficie": 11114,
+    "plusGrandeVille": "Longueuil"
   },
   "geometry": {
     "type": "Polygon",

@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "10",
-    "Nom": "Nord-du-Québec",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 43999,
-    "Superficie": 718229,
-    "PlusGrandeVille": "Kuujjuaq"
+    "type": "Région administrative",
+    "code": "10",
+    "nom": "Nord-du-Québec",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 43999,
+    "superficie": 718229,
+    "plusGrandeVille": "Kuujjuaq"
   },
   "geometry": {
     "type": "Polygon",

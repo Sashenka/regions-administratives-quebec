@@ -1,19 +1,19 @@
 {
-  "type": "FeatureCollection",
-  "features": [{
-    "type": "Feature",
-    "properties": {
-      "Code": "09",
-      "Nom": "Côte-Nord",
-      "Reference": "BDGA5M",
-      "Version": "V2016-08",
-      "Population": 95552,
-      "Superficie": 300281,
-      "PlusGrandeVille": "Sept-Îles"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
+  "type": "Feature",
+  "properties": {
+    "type": "Région administrative",
+    "code": "09",
+    "nom": "Côte-Nord",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 95552,
+    "superficie": 300281,
+    "plusGrandeVille": "Sept-Îles"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
         [
           [-66.6877962887135,
             55.0000469723178
@@ -112,22 +112,8 @@
             55.0000469723178
           ]
         ]
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "Code": "09",
-      "Nom": "Côte-Nord",
-      "Reference": "BDGA5M",
-      "Version": "V2016-08",
-      "Population": 95552,
-      "Superficie": 300281,
-      "PlusGrandeVille": "Sept-Îles"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
+      ],
+      [
         [
           [-66.2597808771808,
             55.0000094192465
@@ -6286,22 +6272,8 @@
             55.0000094192465
           ]
         ]
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "Code": "09",
-      "Nom": "Côte-Nord",
-      "Reference": "BDGA5M",
-      "Version": "V2016-08",
-      "Population": 95552,
-      "Superficie": 300281,
-      "PlusGrandeVille": "Sept-Îles"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
+      ],
+      [
         [
           [-67.2191986983005,
             55.0000259817108
@@ -7453,22 +7425,8 @@
             55.0000259817108
           ]
         ]
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "Code": "09",
-      "Nom": "Côte-Nord",
-      "Reference": "BDGA5M",
-      "Version": "V2016-08",
-      "Population": 95552,
-      "Superficie": 300281,
-      "PlusGrandeVille": "Sept-Îles"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
+      ],
+      [
         [
           [-70.0298694894104,
             55.0000279908985
@@ -30868,22 +30826,8 @@
             55.0000279908985
           ]
         ]
-      ]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "Code": "09",
-      "Nom": "Côte-Nord",
-      "Reference": "BDGA5M",
-      "Version": "V2016-08",
-      "Population": 95552,
-      "Superficie": 300281,
-      "PlusGrandeVille": "Sept-Îles"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
+      ],
+      [
         [
           [-63.6057158918444,
             52.8760197556982
@@ -40616,6 +40560,6 @@
           ]
         ]
       ]
-    }
-  }]
+    ]
+  }
 }

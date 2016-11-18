@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "05",
-    "Nom": "Estrie",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 318350,
-    "Superficie": 10187,
-    "PlusGrandeVille": "Sherbrooke"
+    "type": "Région administrative",
+    "code": "05",
+    "nom": "Estrie",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 318350,
+    "superficie": 10187,
+    "plusGrandeVille": "Sherbrooke"
   },
   "geometry": {
     "type": "Polygon",

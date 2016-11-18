@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "11",
-    "Nom": "Gaspésie - ×les-de-la-Madeleine",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 93284,
-    "Superficie": 20937,
-    "PlusGrandeVille": "Gaspé"
+    "type": "Région administrative",
+    "code": "11",
+    "nom": "Gaspésie - Îles-de-la-Madeleine",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 93284,
+    "superficie": 20937,
+    "plusGrandeVille": "Gaspé"
   },
   "geometry": {
     "type": "Polygon",

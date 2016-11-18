@@ -1,0 +1,30 @@
+{
+  "name": "regions-administratives-quebec",
+  "version": "0.1.0",
+  "description": "Répertoire des régions administratives du Québec et des MRC/TE en format GeoJSON.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sashenka/regions-administratives-quebec"
+  },
+  "author": "Sashenka",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test/*",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "fs-extra": "^1.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  },
+  "engines": {
+    "node": "6.9.1"
+  }
+}

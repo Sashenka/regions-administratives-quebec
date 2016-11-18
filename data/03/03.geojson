@@ -1,13 +1,14 @@
 {
   "type": "Feature",
   "properties": {
-    "Code": "03",
-    "Nom": "Capitale-Nationale",
-    "Reference": "BDGA5M",
-    "Version": "V2016-08",
-    "Population": 725095,
-    "Superficie": 19286,
-    "PlusGrandeVille": "Québec"
+    "type": "Région administrative",
+    "code": "03",
+    "nom": "Capitale-Nationale",
+    "reference": "BDGA5M",
+    "version": "V2016-08",
+    "population": 725095,
+    "superficie": 19286,
+    "plusGrandeVille": "Québec"
   },
   "geometry": {
     "type": "Polygon",
